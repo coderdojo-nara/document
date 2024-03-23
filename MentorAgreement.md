@@ -4,7 +4,7 @@
 ## CoderDojoについての理解
 CoderDojoとは、子どもたち（CoderDojoではニンジャと呼びます）に「プログラミングを学ぶ場を提供するボランティア活動」であり、活動の中心はニンジャであることを理解しています。
 
-各地のCoderDojoは、CoderDojoの精神を共有していますが、それぞれ独自に運営されています。従って本メンター同意書は、CoderDojo奈良・生駒が独自に作成および採用しているものであることを理解しています。
+各地のCoderDojoは、CoderDojoの精神を共有していますが、それぞれ独自に運営されています。従って本メンター同意書は、CoderDojo奈良が独自に作成および採用しているものであることを理解しています。なお、本メンター同意書は[CoderDojo 西宮／梅田が公開しているもの](https://github.com/coderdojo-nishinomiya-umeda/document/blob/master/MentorAgreement.md)をベースとしています。
 
 ## 行動規範
 CoderDojo 奈良には様々な背景の子どもと大人が参加しています。このことを理解し、以下の通り行動します。
@@ -41,6 +41,7 @@ CoderDojo 奈良　代表：[nara.jp@coderdojo.com](nara.jp@coderdojo.com)
 
 ***
 最終更新日と文書バージョン  
+2023年03月23日、バージョン2.5  
 2023年10月26日、バージョン2.4  
 2018年09月18日、バージョン2.3  
 2017年07月15日、バージョン2.2  
